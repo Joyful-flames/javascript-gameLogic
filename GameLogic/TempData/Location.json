@@ -1,0 +1,31 @@
+{
+  "0": {
+    "locID": "0",
+    "continent": "Oceania",
+    "region": "Queensland",
+    "climateID": 0,
+    "weatherList": {
+      "sunny": 0.1,
+      "cloud": 0.8,
+      "rain": 0.1
+    },
+    "speciesScore": {
+      "2": 0,
+      "3": 1000,
+      "4": 5000,
+      "5": 5000,
+      "6": 10000,
+      "7": 10000,
+      "8": 50000
+    },
+    "speciesID": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  }
+}

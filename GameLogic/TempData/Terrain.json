@@ -1,0 +1,16 @@
+{
+  "0": {
+    "terrainID": 0,
+    "info": {
+      "terrainName": "Plain",
+      "description": "Plain can grown most of plants."
+    }
+  },
+  "1": {
+    "terrainID": 1,
+    "info": {
+      "terrainName": "Salted River bank",
+      "description": "Close to the mouth of the river."
+    }
+  }
+}

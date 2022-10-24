@@ -1,0 +1,326 @@
+{
+  "0": {
+    "specieId": "0",
+    "commonName": "TestComName",
+    "property": {
+      "tier": 0,
+      "matureStage": 0,
+      "maturePercentage": 99,
+      "growthRate": 10,
+      "crowedRange": 1,
+      "crowedRate": 1,
+      "spreadRange": 2,
+      "waterConsume": 0,
+      "nutritionConsume": -1
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": -20,
+        "suitableLowTemp": -15,
+        "suitableHighTemp": 30,
+        "maxTemp": 50
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "testSpecies",
+      "name": "testName",
+      "description": "EMPTY_INFO"
+    }
+  },
+  "1": {
+    "specieId": "1",
+    "commonName": "TestComName2",
+    "property": {
+      "tier": 1,
+      "matureStage": 0,
+      "maturePercentage": 99,
+      "growthRate": 1,
+      "crowedRange": 1,
+      "crowedRate": 1,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": -1
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": -20,
+        "suitableLowTemp": -15,
+        "suitableHighTemp": 30,
+        "maxTemp": 50
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "testSpecies",
+      "name": "testName",
+      "description": "EMPTY_INFO"
+    }
+  },
+  "2": {
+    "specieId": "2",
+    "commonName": "Bog moss",
+    "property": {
+      "tier": 0,
+      "matureStage": 0,
+      "maturePercentage": 99,
+      "growthRate": 10,
+      "crowedRange": 1,
+      "crowedRate": 1,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 20,
+        "suitableLowTemp": 23,
+        "suitableHighTemp": 28,
+        "maxTemp": 30
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Fluviatilis",
+      "name": "Mayaca",
+      "description": "Mayaca fluviatilis belongs to the monogeneric monocot family Mayacaceae. It is a perennial herbaceous submerged plant and commonly known as stream bog moss. In Mayaca, leaves are simple, small, sessile and spirally arranged. Flowers are pink, solitary and bisexual, the corolla and stamens are trimerous (Lourteig, 1952; De Carvalho et al., 2009). "
+    }
+  },
+    "3": {
+    "specieId": "3",
+    "commonName": "cockatoo grass",
+    "property": {
+      "tier": 1,
+      "matureStage": 0,
+      "maturePercentage": 99,
+      "growthRate": 5,
+      "crowedRange": 1,
+      "crowedRate": 1,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 20,
+        "suitableLowTemp": 23,
+        "suitableHighTemp": 28,
+        "maxTemp": 30
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Semialata",
+      "name": "Alloteropsis ",
+      "description": "Alloteropsis semialata, known commonly as black seed grass, cockatoo grass, donkersaad gras, swartsaadgras, tweevingergras, and isi quinti, is a perennial grass distributed across much of tropical and subtropical Africa, Asia and Australia, as well as Papuasia and Madagascar."
+    }
+  },
+  "4": {
+    "specieId": "4",
+    "commonName": "Hare's foot fern",
+    "property": {
+      "tier": 3,
+      "matureStage": 2,
+      "maturePercentage": 50,
+      "growthRate": 3,
+      "crowedRange": 2,
+      "crowedRate": 0.9,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 11,
+        "suitableLowTemp": 13,
+        "suitableHighTemp": 28,
+        "maxTemp": 35
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Solida",
+      "name": "Davallia",
+      "description": "Davallia solida var. pyxidata known as the hare's foot fern, is a variety of fern that occurs in eastern Australia and is usually identified as a lithophyte or epiphyte in or near rainforest areas."
+    }
+  },
+  "5": {
+    "specieId": "5",
+    "commonName": "Red Mangroves",
+    "property": {
+      "tier": 3,
+      "matureStage": 2,
+      "maturePercentage": 50,
+      "growthRate": 3,
+      "crowedRange": 2,
+      "crowedRate": 0.9,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 11,
+        "suitableLowTemp": 13,
+        "suitableHighTemp": 28,
+        "maxTemp": 35
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Stylosa",
+      "name": "Rhizophora",
+      "description": "Rhizophora stylosa (red mangrove) is a common species of the Rhizophoraceae family. Its range extends across coastal northern Australia from the Richmond River in New South Wales to Shark Bay in Western Australia.\n\nRed mangrove forms extensive, often pure stands around the shores of shallow protected bays, estuaries and inlets. It prefers soft, well drained muddy soils. It also establishes on rock or coral-based sandy soils and is a dominant species of lower tidal mangrove forests. It is commonly seen along the lower tidal reaches of rivers and immediately behind the seaward fringe of mangroves, sometimes with grey and yellow mangroves."
+    }
+  },
+  "6": {
+    "specieId": "6",
+    "commonName": "White gum",
+    "property": {
+      "tier": 4,
+      "matureStage": 4,
+      "maturePercentage": 50,
+      "growthRate": 1,
+      "crowedRange": 4,
+      "crowedRate": 0.6,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 11,
+        "suitableLowTemp": 13,
+        "suitableHighTemp": 28,
+        "maxTemp": 35
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Argophloia",
+      "name": "Eucalyptus",
+      "description": "Eucalyptus argophloia is a medium to tall tree growing to 40m. The trunk is free of branches for one-half or more of the total tree height. The smooth bark is shed in strips and has a mottled appearance with patches of yellow, pinkish grey, reddish grey, bluish grey and white. The juvenile leaves are linear to narrowly lance-shaped, up to 9cm long by 1.4cm wide, greyish-green in colour and arranged at first in opposite pairs then alternating along the branch. The dull, green, adult leaves are lance-shaped and measure up to 13cm long by 1.3cm wide. A prominent feature of the leaves is the intramarginal vein being remote from the leaf edge.\nThe white flowers are grouped in clusters of seven on a stalk measuring up to 1.2cm long that grows from where the leaf joins with a branchlet. Mature flower buds are egg-shaped or spherical, and are up to 4mm long with a rounded cap. The seed capsules are hemispherical to cup-shaped and are 2.5-5mm long by 4-7mm diameter with 4-6 valves opening at rim level or slightly exserted. (Brooker & Kleining 1994; Halford 1997; DEWHA 2008)"
+    }
+  },
+  "7": {
+    "specieId": "7",
+    "commonName": "Red gum",
+    "property": {
+      "tier": 4,
+      "matureStage": 4,
+      "maturePercentage": 50,
+      "growthRate": 1,
+      "crowedRange": 4,
+      "crowedRate": 0.6,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 11,
+        "suitableLowTemp": 13,
+        "suitableHighTemp": 28,
+        "maxTemp": 35
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Eucalyptus",
+      "name": "Tereticornis",
+      "description": "Eucalyptus tereticornis, commonly known as forest red gum, blue gum or red irongum,[3] is a species of tree that is native to eastern Australia and southern New Guinea. It has smooth bark, lance-shaped to curved adult leaves, flower buds in groups of seven, nine or eleven, white flowers and hemispherical fruit."
+    }
+  },
+  "8": {
+    "specieId": "8",
+    "commonName": "Jacaranda",
+    "property": {
+      "tier": 4,
+      "matureStage": 4,
+      "maturePercentage": 50,
+      "growthRate": 1,
+      "crowedRange": 4,
+      "crowedRate": 0.6,
+      "spreadRange": 1,
+      "waterConsume": 0,
+      "nutritionConsume": 0
+    },
+    "conditions": {
+      "temp": {
+        "minTemp": 11,
+        "suitableLowTemp": 13,
+        "suitableHighTemp": 28,
+        "maxTemp": 35
+      },
+      "wind": {
+        "minWind": 0,
+        "maxWind": 99
+      },
+      "terrainID": [
+        null,
+        0
+      ]
+    },
+    "info": {
+      "species": "Jacaranda",
+      "name": "Mimosifolia",
+      "description": "Jacaranda mimosifolia is regarded as an invasive species in parts of South Africa and Queensland, Australia, where it can out-compete native species. It can form thickets of seedlings beneath planted trees from which the species may expand and exclude other vegetation., Jacaranda (Jacaranda mimosifolia) is regarded as an environmental weed in New South Wales and Queensland. Though this species has been widely and commonly cultivated throughout Australia for many years, it was first recorded as becoming naturalised in Queensland in 1987. It has spread from cultivation into nearby open woodlands and grasslands, particularly on creekbanks and near waterways., Jacaranda (Jacaranda mimosifolia) was recently ranked among the top 200 most important environmental weeds in south-eastern Queensland. It appears on numerous local environmental weed lists in this region (e.g. in Ipswich City, Redland Shire and Caboolture Shire) and has been recorded in eucalypt forest on the Gold Coast., This species is also widely regarded as an environmental weed in north-eastern New South Wales (e.g. in the Byron, Lismore and Tweed Shires) and is also seen as a potential environmental weed in the wider Sydney and Blue Mountains region. Though it rarely reaches maturity in these cooler areas, naturalised plants have been reported in grasslands and woodlands in suburban Sydney., Jacaranda mimosifolia is very difficult to control once established. Large trees must be ring-barked or cut down below ground level and any regrowth treated with herbicide. . When using any herbicide always read the label first and follow all instructions and safety requirements. If in doubt consult an expert."
+    }
+  }
+}
